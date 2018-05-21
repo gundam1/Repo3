@@ -1,0 +1,4 @@
+this to check for local merge. created file on git hub. git fetch from local comp & updating the local comp.
+commands used
+git fetch origin
+git merge origin/master
